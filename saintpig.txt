@@ -3,8 +3,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#%F0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUkc2SEt2RFlwM01meFBVZDRCQldm@37.221.126.186:54335#%F0%9F%90%BDSaintPig%F0%9F%90%BD+SW+%F0%9F%87%B8%F0%9F%87%AA+-+1
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#%F0%9F%90%BDSaintPig%F0%9F%90%BD+PO+%F0%9F%87%B5%F0%9F%87%B1+-+1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#%F0%9F%90%BDSaintPig%F0%9F%90%BD+GB+%F0%9F%87%AC%F0%9F%87%A7+-+1
+vless://f67ed071-ff3e-492b-c46a-efb7f2c7b27c@95.38.210.233:52460?path=%2F&security=none&encryption=none&type=ws#%F0%9F%90%BDSaintPig%F0%9F%90%BD+TR+%F0%9F%87%B9%F0%9F%87%B7+-+1
 vless://8e56106c-7748-4b9d-b082-b0282810ccd8@77.232.134.222:11319?path=%2FMrConfig-MrConfig-MrConfig-MrConfig-MrConfig&security=none&encryption=none&type=splithttp#%F0%9F%90%BDSaintPig%F0%9F%90%BD+RU+%F0%9F%87%B7%F0%9F%87%BA+-+1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#%F0%9F%90%BDSaintPig%F0%9F%90%BD+JP+%F0%9F%87%AF%F0%9F%87%B5+-+1
+vless://f5f4315e-6759-49a3-b78c-60d9e83f470f@79.127.70.76:2020?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#%F0%9F%90%BDSaintPig%F0%9F%90%BD+FN+%F0%9F%87%AB%F0%9F%87%AE+-+1
+vless://f1f9a376-0b8a-4486-b639-da2841acf9f5@79.127.70.87:8383?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#%F0%9F%90%BDSaintPig%F0%9F%90%BD+FN+%F0%9F%87%AB%F0%9F%87%AE+-+2
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@158.51.123.253:5003#%F0%9F%90%BDSaintPig%F0%9F%90%BD+IN+%F0%9F%87%AE%F0%9F%87%B3+-+1
 ss://YWVzLTI1Ni1nY206N2dhVFRsVzczRw%3D%3D@51.222.157.179:49602#%F0%9F%90%BDSaintPig%F0%9F%90%BD+IN+%F0%9F%87%AE%F0%9F%87%B3+-+2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#%F0%9F%90%BDSaintPig%F0%9F%90%BD+IT+%F0%9F%87%AE%F0%9F%87%B9+-+1
@@ -20,3 +23,4 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#%F0%9F%90%BDSaint
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5003#%F0%9F%90%BDSaintPig%F0%9F%90%BD+DE+%F0%9F%87%A9%F0%9F%87%AA+-+5
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#%F0%9F%90%BDSaintPig%F0%9F%90%BD+DE+%F0%9F%87%A9%F0%9F%87%AA+-+6
 vless://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?security=reality&encryption=none&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=ad52706b#%F0%9F%90%BDSaintPig%F0%9F%90%BD+DE+%F0%9F%87%A9%F0%9F%87%AA+-+7
+trojan://accbaab-caba-aacb-cbad-bcaabbaccbca@127.0.0.1:8080?security=tls&headerType=none&type=tcp#%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+DEVELOPED-BY+MAJID-SOLTANPOOR

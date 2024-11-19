@@ -1,5 +1,5 @@
-trojan://aabcbca-baca-bcaa-adcb-bccaabbbccaa@127.0.0.1:1080?security=tls&headerType=none&type=tcp#%F0%9F%94%84+LATEST-UPDATE+%F0%9F%93%85+MON-28-ABAN-1403+%F0%9F%95%91+10%3A00
-vless://921c3e7a-35b5-4499-aef5-363fd050bb29@160.153.0.25:443?mode=gun&security=tls&encryption=none&type=grpc&sni=s1.digikala-iranian.org#%F0%9F%90%BDSaintPig%F0%9F%90%BD+DE+%F0%9F%87%A9%F0%9F%87%AA+MCI
+trojan://aabcbca-baca-bcaa-adcb-bccaabbbccaa@127.0.0.1:1080?security=tls&headerType=none&type=tcp#%F0%9F%94%84+LATEST-UPDATE+%F0%9F%93%85+29-ABAN-1403+%F0%9F%95%91+10%3A30
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443?security=reality&encryption=none&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=01b200e90e250221#%F0%9F%90%BDSaintPig%F0%9F%90%BD+DE+%F0%9F%87%A9%F0%9F%87%AA+MCI
 vless://fd0f8494-b2ff-4edd-a04c-0a25a64a4c78@79.127.70.123:443?security=none&encryption=none&host=Doostihaa.coM+%40FergalVpnMod&headerType=http&type=tcp#%F0%9F%90%BDSaintPig%F0%9F%90%BD+DE+%F0%9F%87%A9%F0%9F%87%AA+MTN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#%F0%9F%90%BDSaintPig%F0%9F%90%BD+NL+%F0%9F%87%B3%F0%9F%87%B1+MCI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdld2TTBJUDZ3aFVLYU1FdXFlTjZN@147.45.136.147:41095#%F0%9F%90%BDSaintPig%F0%9F%90%BD+NL+%F0%9F%87%B3%F0%9F%87%B1+MTN

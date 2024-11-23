@@ -1,4 +1,4 @@
-trojan://cbaabca-acab-aabc-dacb-accbbcacabba@127.0.0.1:1080?security=tls&headerType=none&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%2003-AZAR-1403%20%F0%9F%95%91%2013%3A45
+trojan://cbaabca-acab-aabc-dacb-accbbcacabba@127.0.0.1:1080?security=tls&headerType=none&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%2003-AZAR-1403%20%F0%9F%95%91%2018%3A00
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@185.146.173.173:443?path=%2F%40JavidnamanIran%2F%3Fed%3D2560&security=tls&encryption=none&host=jnir.hpcode.ir&type=ws&sni=jnir.hpcode.ir#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%A9%F0%9F%87%AA%20DE-185.146.173.173%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A9%F0%9F%87%AA%20DE-150.241.95.62%3A54314
 vless://aaf8a6c9-aaad-4f85-dd01-9ccd4ca554f9@70.34.222.150:443?path=%2Fwspath&security=tls&alpn=http%2F1.1&encryption=none&host=xraypsiphon.sassanidempire.com&fp=chrome&type=ws&sni=vkvd127.mycdn.me#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B8%F0%9F%87%AA%20SE-70.34.222.150%3A443
